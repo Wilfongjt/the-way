@@ -1,2 +1,2 @@
 # the-way
-new change, another, more, some more, xxx
+new change, another, more, more, local
