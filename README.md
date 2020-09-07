@@ -1,5 +1,5 @@
 # the-way
-[issues](issues?q=As+a)
+[issues](/issues?q=As+a)
 r1
 r2
 l1
